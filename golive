@@ -1,0 +1,44 @@
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>BESPOKE BI</title>
+	<link href='https://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/flexbox.css">
+</head>
+<body>
+	
+	<header class="main-header">
+		<h1 class="name"><a href="#">BESPOKE BI</a></h1>
+		<ul class="main-nav">
+			<li><a href="#">REPORTING</a></li>
+			<li><a href="#">FINANCIAL MODELING</a></li>
+			<li><a href="#">WHY</a></li>
+			<li><a href="#">ABOUT US</a></li>
+      <li><a href="#">CONTACT US</a></li>
+		</ul>
+	</header><!--/.main-header-->   
+
+	<div class="banner">
+		<span class="tagline">because data has a better idea</span>
+	</div><!--/.banner-->
+	
+	<div class="rowOne">		
+		<div class="primary col">
+			<h2>REPORTING</h2>
+			<p>We don’t just deliver data. We deliver meaningful data that’s made for you.Data that not only joins the dots, but identifies them in the first place – giving you information that has the power to transform the way you work, and the work you do. It’s the smart way to use data. It’s Bespoke Intelligence. </p>
+		</div><!--/.primary-->
+		
+		<div class="secondary col">
+		<div class= "firstImg">
+   <img src=https://previews.dropbox.com/p/thumb/AAVhY0P4tQgzAzFpiHjDtCOo5QCG6zWB06Kiot6WSua6psZm4Spd1BELsB5wB2z6YR5FwIxYtr_Dkm4eN5S6gzA7toxgu4q8KrOJ76MwdrsUsLwmxVGppKLMv1DO2DyceRuHBwO8kPnDeCzfzIJ1EmYf8k3GVV7mK8sdE3-kkmWNI-UCNNR6hKH8Gm1alKmR9eULSxa3AAelv8XRJ8KEFrldUNQIJmPxnpaKVZHHe3l-g-n3r-Ovb6nTuQ5lxz50fWBfkDYQbcVAx4WavZdT4GiISHisAxJByaigMiHb2bDLJA/p.png?size_mode=5 alt="reports img" class="graphic-one">
+    </div>
+		</div><!--/.secondary-->
+	</div>
+	
+	<footer class="main-footer">
+		<span>&copy;2019 AND KICKING ASS.</span>
+	</footer>
+	
+</body>
+</html>
